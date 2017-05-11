@@ -1,0 +1,29 @@
+{
+  "name": "script_firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script_firebase.js",
+  "dependencies": {
+    "csvtojson": "^1.1.5",
+    "firebase": "^3.9.0",
+    "firebase-admin": "^4.2.1"
+  },
+  "devDependencies": {
+    "csvtojson": "^1.1.5",
+    "firebase": "^3.9.0",
+    "firebase-admin": "^4.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielbmesquita/script_firebase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielbmesquita/script_firebase/issues"
+  },
+  "homepage": "https://github.com/danielbmesquita/script_firebase#readme"
+}
